@@ -2,7 +2,7 @@
 
 ### This is a PyTorch implementation of our paper
 
-## Overall
+## Overview
 
 ![avatar](https://github.com/OLobbCode/NoiseLF/blob/code/overall.png)
 
